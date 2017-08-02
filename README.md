@@ -4,6 +4,6 @@
 
 진행 순서는 다음과 같이 진행 됩니다.
 
-[01\. 모던 자바 맛보기](blank)
+[01\. 모던 자바 맛보기](https://github.com/n0roo/java8-study/wiki/01.-모던자바-맛보기)
 
 최초 작성자 : n0roo
