@@ -6,5 +6,6 @@
 
 [01\. 모던 자바 맛보기](https://github.com/n0roo/java8-study/wiki/01.-모던자바-맛보기)
 
+[02\. 람다](https://github.com/n0roo/java8-study/wiki/02.-람다)
 
 최초 작성자 : n0roo
